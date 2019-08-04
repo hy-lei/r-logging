@@ -9,17 +9,17 @@ These instructions will tell you how to get the necessary packages, how to run t
 ### Prerequisites
 Check whether you have the R package `logging` installed on your machine.  In R, run
 ```R
-	require('logging')
+require('logging')
 ```
 If a warning message shows up, then continue to run:
 ```R
-	install.packages('logging')
+install.packages('logging')
 ```
 
 ### Running the demo
 Clone the repo to your machine.  Then run R under `src`, and enter the following:
 ```R
-	source('run.r')
+source('run.r')
 ```
 
 You will get something like this in the console, and a log file under `log`:
