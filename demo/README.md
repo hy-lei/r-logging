@@ -1,7 +1,9 @@
 # Demo
 
 ## Log levels in R
+
 | Name     | Level |
+|----------|-------|
 | NOTSET   | 0     |
 | FINEST   | 1     |
 | FINER    | 4     |
